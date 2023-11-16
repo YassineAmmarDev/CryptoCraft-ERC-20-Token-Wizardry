@@ -26,7 +26,7 @@ CryptoCraft demonstrates the development of an ERC-20 token with unique features
 
 ### Installation
 
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone https://github.com/YassineAmmarDev/CryptoCraft-ERC-20-Token-Wizardry.git`
 2. Install dependencies: `npm install`
 
 ### Local Testing
