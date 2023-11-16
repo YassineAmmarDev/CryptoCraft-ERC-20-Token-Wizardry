@@ -1,3 +1,51 @@
-# Sample Hardhat Project
+# CryptoCraft: ERC-20 Token Wizardry
 
-Embark on a blockchain journey with CryptoCraft, where I designed and launched a unique ERC-20 token from scratch. This custom cryptocurrency not only follows the industry-standard ERC-20 but also boasts advanced features such as stake placement and combustion, which have added a layer of usability and durability Dive into the decentralized sector with our basic decentralized exchange (DEX ), enabling seamless token exchange. Explore the potential of decentralized finance (DeFi) and prove its feasibility with a token ecosystem designed for the future.
+Welcome to CryptoCraft, an innovative project showcasing the creation of a custom ERC-20 token with advanced features using Hardhat, Solidity, and JavaScript.
+
+## Overview
+
+CryptoCraft demonstrates the development of an ERC-20 token with unique features such as staking and burning. Additionally, it includes a basic Decentralized Exchange (DEX) for seamless token swapping.
+
+## Features
+
+- 🛠 ERC-20 Token with Staking and Burning
+- 🔄 Basic Decentralized Exchange (DEX)
+
+## Project Structure
+
+- **Contracts**: 3 Solidity smart contracts for the ERC-20 token, Stake and DEX.
+- **Tests**: JavaScript tests for token functionality (Token.js) and DEX (Dex.js).
+- **Deployment Scripts**: Local deployment using deploy.js and deployment on Sepolia testnet using sepoliaTest.js.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- Hardhat (install using `npm install hardhat`)
+
+### Installation
+
+1. Clone the repository: `git clone [repository_url]`
+2. Install dependencies: `npm install`
+
+### Local Testing
+
+Run tests using Hardhat:        npx hardhat test
+
+Deploy locally with Hardhat:    npx hardhat run scripts/deploy.js
+
+Deploy on Sepolia testnet:      npx hardhat run scripts/sepoliaTest.js
+
+### Usage
+
+Explore the provided scripts and tests to understand how to interact with the ERC-20 token and DEX.
+
+### Contributing
+
+Feel free to contribute by opening issues or submitting pull requests. Contributions are welcome!
+
+
+
+
+
